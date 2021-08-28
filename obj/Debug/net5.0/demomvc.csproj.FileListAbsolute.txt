@@ -38,3 +38,6 @@
 /home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/demomvc.pdb
 /home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/demomvc.genruntimeconfig.cache
 /home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/demomvc.csproj.CopyComplete
+/home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/Razor/Views/Contacto/index.cshtml.g.cs
+/home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/Razor/Views/Calculadora/index.cshtml.g.cs
+/home/danny/Documentos/prog1/demomvc/obj/Debug/net5.0/Razor/Views/Venta/index.cshtml.g.cs

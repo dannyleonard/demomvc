@@ -1,0 +1,24 @@
+@model demomvc.Models.Venta
+@{
+    ViewData["Title"] = "Pagina de Ventas";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+    <form asp-controller="Venta" asp-action="Prectotal">
+     <label asp-for="Nombre" class="control-label"></label>
+     <input asp-for="Nombre" class="form-control" placeholder="Escribe el nombre del producto" />
+
+     <label asp-for="Precio" class="control-label"></label>
+     <input asp-for="Precio" class="form-control" />
+
+     <label asp-for="Cantidad" class="control-label"></label>
+     <input asp-for="Cantidad" class="form-control" />
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Ver Total</button> 
+    </div>              
+</form>
+<h1>@ViewData["Message"]</h1>
+<h1>@ViewData["Message2"]</h1>
+   </div>

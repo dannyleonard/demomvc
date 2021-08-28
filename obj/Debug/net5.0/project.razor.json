@@ -15619,6 +15619,11 @@
   "RootNamespace": "demomvc",
   "Documents": [
     {
+      "FilePath": "/home/danny/Documentos/prog1/demomvc/Views/Contacto/index.cshtml",
+      "TargetPath": "Views\\Contacto\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danny/Documentos/prog1/demomvc/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15626,6 +15631,16 @@
     {
       "FilePath": "/home/danny/Documentos/prog1/demomvc/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danny/Documentos/prog1/demomvc/Views/Calculadora/index.cshtml",
+      "TargetPath": "Views\\Calculadora\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danny/Documentos/prog1/demomvc/Views/Venta/index.cshtml",
+      "TargetPath": "Views\\Venta\\index.cshtml",
       "FileKind": "mvc"
     },
     {
